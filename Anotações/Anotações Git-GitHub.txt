@@ -1,0 +1,26 @@
+GIT E GITHUB
+
+"Varias versões" - "Colaborativo"
+
+Controle de Versãon
+Armazenamento em nuvem 
+Trabalho em equipe 
+Melhorar seu código
+Reconhecimento
+
+Dir - Listar 
+Cd - Ir
+Cd.. - Voltar
+Cls - Limpar
+Mkdir - Criar uma pasta
+Echo - Printa
+> Redirecionador de Fluxo
+Del - Remover Arquivos
+Rmdir - Remover Repositorios
+
+Sha - Algoritmo de Hash Seguro - Conjunto de 40 caracteres
+
+
+Blob - Bloco Básico de Composição
+Tree - Armazenamento e apontando outros Blobs
+Git Init - Iniciar o Git
